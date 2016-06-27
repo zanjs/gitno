@@ -1,7 +1,7 @@
 {
     "name": "gitno",
     "description": "Automatically fetch gitignore files for any project type from github into your new project",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "url": "https://github.com/zanjs/gitno"
     },
