@@ -1,5 +1,7 @@
 # gitno
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/gitno.svg)](https://greenkeeper.io/)
+
 Automatically fetch github's excellent `.gitignore` files for any of your new projects
 
 [Here is the list of available types](https://github.com/github/gitignore)
